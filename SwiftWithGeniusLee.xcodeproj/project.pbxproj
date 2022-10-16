@@ -14,6 +14,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		1E11508C28FC3BB700F45277 /* hello_swift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = hello_swift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		1EFC17DA28F9A6230037045E /* SwiftWithGeniusLee.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SwiftWithGeniusLee.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1EFC17DD28F9A6230037045E /* SwiftWithGeniusLeeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftWithGeniusLeeApp.swift; sourceTree = "<group>"; };
 		1EFC17DF28F9A6230037045E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -55,6 +56,7 @@
 				1EFC17DF28F9A6230037045E /* ContentView.swift */,
 				1EFC17E128F9A6240037045E /* Assets.xcassets */,
 				1EFC17E328F9A6240037045E /* Preview Content */,
+				1E11508C28FC3BB700F45277 /* hello_swift.playground */,
 			);
 			path = SwiftWithGeniusLee;
 			sourceTree = "<group>";
